@@ -1,0 +1,8 @@
+
+id,first_name,last_name,email,username,password
+1,Hakim,Elfes,helfes@nautilus.edu,hakim.elfes,LcnmlMxb8xG
+2,Aubrey,Ceci,aceci1@nautilus.edu,aubrey.ceci,Wp4mlqxb-xG
+3,Tanney,Giacobillo,tgiacobillo@nautilus.edu,tanney.giacobillo,ap-Mftxb3x9
+4,Llywellyn,Aynsley,laynsley3@nautilus.edu,llywellyn.aynsley,LKVbftnb8s5
+5,Town,Downgate,tdowngate4@nautilus.edu,town.downgate,73oDUZ4fbo48
+5,nautilus,nautilus,service.nautilus@nautilus.edu,service.nautilus,73DU-Z4fb-b8s5
