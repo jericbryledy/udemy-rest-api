@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'core.apps.CoreConfig',
     'user.apps.UserConfig',
     'utils.apps.UtilsConfig',
+    'query_api'
 ]
 
 MIDDLEWARE = [
