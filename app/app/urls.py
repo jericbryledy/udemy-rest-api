@@ -20,4 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/auth/', include('users.urls', namespace='users')),
     path('api/utils/', include('utils.urls', namespace='utils')),
+    path('api/query-test/', include('query_api.urls', namespace='api'))
 ]
